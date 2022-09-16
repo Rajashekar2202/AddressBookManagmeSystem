@@ -1,0 +1,27 @@
+{
+  "exclude": [
+    "FirstName",
+    "Rajashekar",
+
+    "LastName ",
+    "Vemula",
+
+    "Address",
+    "VidhyaNagar",
+
+    "Phone",
+    9494969698,
+
+    "City",
+    "Hyderabad",
+
+    "State",
+    "Telangana",
+
+    "Zipcode",
+    500041,
+
+    "Email",
+    "shekar@gmail.com"
+  ]
+}
